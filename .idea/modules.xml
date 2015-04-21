@@ -4,9 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidWear.iml" filepath="$PROJECT_DIR$/AndroidWear.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myweartext/myweartext.iml" filepath="$PROJECT_DIR$/myweartext/myweartext.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myweartext2/myweartext2.iml" filepath="$PROJECT_DIR$/myweartext2/myweartext2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidWear</string>
+    <string name="app_name">My购物车</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <color name="radioButton_checked">#F00</color>
+    <color name="radioButton_unchecked">#ff1c1925</color>
+
+    <style name="radioGroup">
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/radiobutton_selector</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="radioGroup1">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:background">@drawable/radiobutton_selector</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_width">10dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_height">10dp</item>
+    </style>
+
+
+
+    <style name="bfragment_textView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
