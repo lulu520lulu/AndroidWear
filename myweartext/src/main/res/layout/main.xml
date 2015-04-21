@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#F00"
+    android:id="@+id/boxInsetLayout"
+    android:layout_height="match_parent"
+    >
+    <android.support.wearable.view.GridViewPager
+        android:layout_width="match_parent"
+        android:id="@+id/gradViewPager"
+        android:layout_height="match_parent"/>
+<android.support.wearable.view.DismissOverlayView
+    android:id="@+id/dismiss_overlayView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
+</android.support.wearable.view.BoxInsetLayout>
+
