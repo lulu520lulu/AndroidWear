@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MyShopping" />
             <option value="$PROJECT_DIR$/PullToRefreshlibrary" />
             <option value="$PROJECT_DIR$/SlindingMenulibrary" />
+            <option value="$PROJECT_DIR$/mobile" />
           </set>
         </option>
       </GradleProjectSettings>

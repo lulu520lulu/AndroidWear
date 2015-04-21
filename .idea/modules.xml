@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidWear.iml" filepath="$PROJECT_DIR$/AndroidWear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyShopping/MyShopping.iml" filepath="$PROJECT_DIR$/MyShopping/MyShopping.iml" />
       <module fileurl="file://$PROJECT_DIR$/PullToRefreshlibrary/PullToRefreshlibrary.iml" filepath="$PROJECT_DIR$/PullToRefreshlibrary/PullToRefreshlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlindingMenulibrary/SlindingMenulibrary.iml" filepath="$PROJECT_DIR$/SlindingMenulibrary/SlindingMenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
     </modules>
   </component>
 </project>

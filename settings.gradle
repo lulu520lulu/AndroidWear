@@ -1,2 +1,2 @@
-include ':MyShopping', 'SlindingMenulibrary'
+include ':mobile', 'SlindingMenulibrary'
 include ':PullToRefreshlibrary'
